@@ -6,6 +6,7 @@ author: John Li
 # June 2017 Android Meetup Summary
 
 Hello Florida summer! Hope all you Android devs are keeping cool and staying dry.  With all of the exciting anouncements from Google IO last month, we can't wait to dig into some new talks.
+----
 
 ### Topic 1: [Kotlin, Kotlin, Kotlin](https://www.youtube.com/watch?v=QzpquJ85pEU)
 We're all thinking and talking about it, and some of us are even convincing our team leads to start using it. But why Kotlin? What kind of benefits does the language really offer? This will be a brief overview of some of the more simple but highly usable grammatic and syntactic changes that come with Kotlin - type nullability, lambdas, extensions, and beyond - that you can easily sink your teeth into to get going. We'll step through some very basic side-by-side examples of Java - vs - Kotlin (from at least one developer's perspective) to get a taste of the language, and how to start your own process of translating between the two.
