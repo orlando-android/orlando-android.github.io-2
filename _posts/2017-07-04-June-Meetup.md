@@ -2,6 +2,7 @@
 published: true
 layout: post
 author: John Li
+title: June 2017 Android Meetup Summary
 ---
 
 Hello Florida summer! Hope all you Android devs are keeping cool and staying dry.  With all of the exciting anouncements from Google IO last month, we can't wait to dig into some new talks.
