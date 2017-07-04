@@ -1,5 +1,7 @@
 ---
 published: true
+layout: post
+author: John Li
 ---
 # June 2017 Android Meetup Summary
 
