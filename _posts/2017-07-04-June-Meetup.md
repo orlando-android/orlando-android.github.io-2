@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 # June 2017 Android Meetup Summary
 
